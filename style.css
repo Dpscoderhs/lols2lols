@@ -13,7 +13,9 @@ span {
     width: 350px;
     height: 300px;
 }
-
+h1{
+    color: orange;
+}
 #result_emotion_name,
 #result_emotion_name2 {
     color: black;
